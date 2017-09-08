@@ -1,22 +1,22 @@
 
 .box {
   min-height: 100px;
-  width: 50%;
-  margin:0 auto;
+  width: 100%;
 }
-.orange {
-	  background-color: #96D13B;
+
+.white {
+	  background-color: #fff;
+	  min-height:25px;
 }
+
+.dark_blue {
+  background-color: #1a237e;
+}
+
+.light_blue {
+  background-color: #099dd9;
+}
+
 .green {
-  background-color: #16A950;
-}
-.yellow {
-  background-color: #FEEB0B;
-}
-body
-
-background-color:#666666;
-
-	.blue {
-	background-color:#02A345
+  background-color: #0c8542;
 }
