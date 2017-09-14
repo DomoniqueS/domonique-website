@@ -2,8 +2,8 @@
 .box1 {
   min-height: 40vh;
   width: 20%;
-  float:left;
-  margin:100px;
+  clear:left;
+  
 }
 
 .box2 {
