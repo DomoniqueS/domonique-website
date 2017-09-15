@@ -34,7 +34,7 @@
   min-height: 40vh;
   width: 20%;
   float:left;
-  display:block;
+  display:inline-block;
 }
   .blue {
     background-color:#5CAAE2;
