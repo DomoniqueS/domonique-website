@@ -29,3 +29,12 @@
 .dark_blue {
   background-color:#043252;
 }
+
+.box4 {
+  min-height: 40vh;
+  width: 20%;
+   display: inline-table;
+  
+  .blue {
+    background-color:#1D92E5;
+  }
