@@ -2,14 +2,14 @@
 .box1 {
   min-height: 40vh;
   width: 20%;
-  
+   display: inline-table;
   
 }
 
 .box2 {
   min-height: 50vh;
   width: 20%; 
-  
+   display: inline-table;
 }
 
 .box3 {
