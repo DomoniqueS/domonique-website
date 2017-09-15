@@ -41,7 +41,7 @@
 .box5 {
   min-height: 40vh;
   width: 20%;
-  display:flex;
+  float:right;
 }
 
 .brown {
