@@ -15,7 +15,7 @@
 .box3 {
   min-height: 40vh;
   width: 20%;
- display: flex;
+ display: inline-block;
 }
 
 .dark_green {
@@ -41,7 +41,7 @@
 
 .box5 {
   min-height: 40vh;
-  width: 40%;
+  width: 20%;
   float:right;
   display:inline-block;
 }
