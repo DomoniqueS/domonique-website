@@ -9,7 +9,7 @@
 .box2 {
   min-height: 40vh;
   width: 20%; 
-   display: inline-table;
+   display: inline-block;
 }
 
 .box3 {
@@ -33,7 +33,7 @@
 .box4 {
   min-height: 40vh;
   width: 20%;
-  float:left;
+  float:right;
 }
   .blue {
     background-color:#5CAAE2;
