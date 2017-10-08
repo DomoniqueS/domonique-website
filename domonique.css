@@ -43,10 +43,10 @@ float: right;
   }
 
 .box5 {
- min-height: 100vh;
-width: 100%;
-margin: 10%;
-display: inline-table;
+ min-height: 20vh;
+width: 50%;
+margin: auto;
+float: right;
   
 }
 
