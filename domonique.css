@@ -9,7 +9,7 @@
 .box2 {
   min-height: 40vh;
   width: 20%; 
-   display: inline-block;
+  float: right;
 }
 
 .box3 {
