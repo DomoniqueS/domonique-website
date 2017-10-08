@@ -1,9 +1,9 @@
 
 .box1 {
  min-height: 30vh;
-		width: 98%;
-		margin: auto;
-		display: inline-table;
+width: 98%;
+margin: auto;
+display: inline-table;
 }
 
 .box2 {
@@ -40,9 +40,10 @@
   }
 
 .box5 {
-  min-height: 40vh;
-  width: 20%;
-  float:center;
+ min-height: 30vh;
+width: 98%;
+margin: auto;
+display: inline-table;
   
 }
 
