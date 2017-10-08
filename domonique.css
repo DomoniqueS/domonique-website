@@ -10,7 +10,7 @@ display: inline-table;
   min-height: 10vh;
 width: 50%;
 margin: auto;
-display: inline-table;
+float: right;
 }
 
 .box3 {
@@ -36,7 +36,7 @@ display: inline-table;
  min-height: 10vh;
 width: 50%;
 margin: auto;
-display: inline-table;
+float: right;
 }
   .blue {
     background-color:#5CAAE2;
