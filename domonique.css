@@ -1,21 +1,23 @@
 
 .box1 {
- min-height: 30vh;
+ min-height: 10vh;
 width: 50%;
 margin: auto;
 display: inline-table;
 }
 
 .box2 {
-  min-height: 40vh;
-  width: 20%; 
-  float: right;
+  min-height: 10vh;
+width: 50%;
+margin: auto;
+display: inline-table;
 }
 
 .box3 {
-  min-height: 40vh;
-  width: 20%;
- display: inline-block;
+  min-height: 10vh;
+width: 50%;
+margin: auto;
+display: inline-table;
 }
 
 .dark_green {
@@ -31,9 +33,10 @@ display: inline-table;
 }
 
 .box4 {
-  min-height: 40vh;
-  width: 20%;
-  float:right;
+ min-height: 10vh;
+width: 50%;
+margin: auto;
+display: inline-table;
 }
   .blue {
     background-color:#5CAAE2;
