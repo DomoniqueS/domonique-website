@@ -5,8 +5,7 @@ width: 50%;
 margin: auto;
 display: inline-table;
  @media screen and (max-width:289px); {
-  .flex-container {
-   display:block;
+
 }
  }
 .box2 {
