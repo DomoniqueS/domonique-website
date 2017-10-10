@@ -4,22 +4,31 @@
 width: 50%;
 margin: auto;
 display: inline-table;
+ @media screen and (max-width:600px) {
+  .flex-container {
+   display:block;
 }
-
+ }
 .box2 {
   min-height: 30vh;
 width: 50%;
 margin: auto;
 float: right;
+  @media screen and (max-width:700px) {
+  .flex-container {
+   display:block;
 }
-
+ }
 .box3 {
   min-height: 30vh;
 width: 50%;
 margin: auto;
 display: inline-table;
+  @media screen and (max-width:800px) {
+  .flex-container {
+   display:block;
 }
-
+ }
 .dark_green {
  background-color:#42ad1e;
 }
@@ -37,6 +46,10 @@ display: inline-table;
 width: 50%;
 margin: auto;
 float: right;
+  @media screen and (max-width:900px) {
+  .flex-container {
+   display:block;
+ }
 }
   .blue {
     background-color:#5CAAE2;
@@ -47,7 +60,10 @@ float: right;
 width: 100%;
 margin: auto;
 float: right;
-  
+ @media screen and (max-width:500px) {
+  .flex-container {
+   display:block;
+ }
 }
 
 .brown {
