@@ -1,7 +1,6 @@
 
 
 .box1 {
- @media screen and (min-width:1500px) {
  min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -9,7 +8,6 @@ display: inline-table;
 
  }
 .box2 {
-  @media screen and (min-width:500px) {
   min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -17,7 +15,6 @@ float: right;
  
  }
 .box3 {
-  @media screen and (min-width:500px){
   min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -37,7 +34,6 @@ display: inline-table;
 }
 
 .box4 {
-  @media screen and (min-width:400px) {
  min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -49,7 +45,6 @@ float: right;
   }
 
 .box5 {
-  @media screen and (min-width:300px) {
  min-height: 30vh;
 width: 100%;
 margin: auto;
