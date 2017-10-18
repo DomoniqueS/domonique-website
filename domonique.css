@@ -2,7 +2,9 @@ body {
  
 
 .box1 {
- img 
+ img {
+	content:url(
+	}
  min-height: 30vh;
 width: 50%;
 margin: auto;
