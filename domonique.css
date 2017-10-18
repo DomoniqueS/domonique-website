@@ -1,8 +1,7 @@
-body {
-@media only screen and (min-width:680px);
-}
+
 
 .box1 {
+flex-wrap:flex;
  min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -10,6 +9,7 @@ display: inline-table;
 
  }
 .box2 {
+ @media only screen and (min-width:680px)
   min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -17,6 +17,7 @@ float: right;
  
  }
 .box3 {
+ @media only screen and (min-width:680px)
   min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -36,6 +37,7 @@ display: inline-table;
 }
 
 .box4 {
+ @media only screen and (min-width:680px)
  min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -47,6 +49,7 @@ float: right;
   }
 
 .box5 {
+ @media only screen and (min-width:680px)
  min-height: 30vh;
 width: 100%;
 margin: auto;
