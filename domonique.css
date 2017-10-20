@@ -1,5 +1,7 @@
-body {
+
 @media screen and (min-width: 600px) {
+
+body {
   display: block;
 }
 .box1 {
