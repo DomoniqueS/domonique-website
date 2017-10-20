@@ -1,8 +1,9 @@
-@media screen and {max-width:600px}
-.box1 {
- img {
-content:url(https://user-images.githubusercontent.com/28358543/31746084-823cd6da-b41a-11e7-8053-c7171a67ab55.jpg);
+@media screen and (max-width:600px) {
+
+body {
+ display:block
 }
+.box1 {
  min-height: 30vh;
 width: 50%;
 margin: auto;
@@ -56,4 +57,63 @@ float: right;
 
 .brown {
   background-color:#B25018;
+}
+
+}
+@media srcreen and (max-width: 1000px) {
+.box1 {
+ min-height: 30vh;
+width: 50%;
+margin: auto;
+display: inline-table;
+
+ }
+.box2 {
+  min-height: 30vh;
+width: 50%;
+margin: auto;
+float: right;
+ 
+ }
+.box3 {
+  min-height: 30vh;
+width: 50%;
+margin: auto;
+display: inline-table;
+ 
+ }
+.dark_green {
+ background-color:#42ad1e;
+}
+
+.light_green {
+  background-color:#4fcc2d;
+}
+
+.dark_blue {
+  background-color:#043252;
+}
+
+.box4 {
+ min-height: 30vh;
+width: 50%;
+margin: auto;
+float: right;
+  
+}
+  .blue {
+    background-color:#5CAAE2;
+  }
+
+.box5 {
+ min-height: 30vh;
+width: 100%;
+margin: auto;
+float: right;
+
+}
+
+.brown {
+  background-color:#B25018;
+}
 }
