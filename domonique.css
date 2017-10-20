@@ -69,21 +69,21 @@ body {
 }
 .box1 {
  min-height: 30vh;
-width: 50%;
+width: 100%;
 margin: auto;
 display: inline-table;
 
  }
 .box2 {
   min-height: 30vh;
-width: 50%;
+width: 100%;
 margin: auto;
 float: right;
  
  }
 .box3 {
   min-height: 30vh;
-width: 50%;
+width: 100%;
 margin: auto;
 display: inline-table;
  
@@ -102,7 +102,7 @@ display: inline-table;
 
 .box4 {
  min-height: 30vh;
-width: 50%;
+width: 100%;
 margin: auto;
 float: right;
   
