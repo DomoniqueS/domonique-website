@@ -60,3 +60,67 @@ float: right;
   background-color:#B25018;
 }
 }
+
+
+@media screen and (max-width: 599px) {
+
+body {
+  display: block;
+}
+.box1 {
+ min-height: 30vh;
+width: 50%;
+margin: auto;
+display: inline-table;
+
+ }
+.box2 {
+  min-height: 30vh;
+width: 50%;
+margin: auto;
+float: right;
+ 
+ }
+.box3 {
+  min-height: 30vh;
+width: 50%;
+margin: auto;
+display: inline-table;
+ 
+ }
+.dark_green {
+ background-color:#42ad1e;
+}
+
+.light_green {
+  background-color:#4fcc2d;
+}
+
+.dark_blue {
+  background-color:#043252;
+}
+
+.box4 {
+ min-height: 30vh;
+width: 50%;
+margin: auto;
+float: right;
+  
+}
+  .blue {
+    background-color:#5CAAE2;
+  }
+
+.box5 {
+ min-height: 30vh;
+width: 100%;
+margin: auto;
+float: right;
+
+}
+
+.brown {
+  background-color:#B25018;
+}
+}
+
